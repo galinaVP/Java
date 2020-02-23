@@ -1,0 +1,4 @@
+#ignore folder logs
+logs/
+#test folder to be ignored files which are txt
+ignor/*.txt
